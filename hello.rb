@@ -1,4 +1,3 @@
+name = ARGV.first || "World"
 
-# comments
-
-puts "Hello, #{ARGV.first}!"
+puts "Hello, #{name}!"
